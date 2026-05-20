@@ -1,0 +1,16 @@
+name: asistente_musica_funcional
+description: Prototipo del Director de Atmósfera.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^6.0.0
+  http: ^1.2.0
+
+flutter:
+  uses-material-design: true
